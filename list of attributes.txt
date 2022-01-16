@@ -1,0 +1,4 @@
+Base URL: https://gateway.pinata.cloud/ipfs/
+
+Attributes: Qma45sXFF3gPrq2JgLtVQzzKr6vqhUjCxBY28Ld1d1NYnr
+File: QmeupsVTQfTjxZKQYB7SngNMUpGRtxozV9QVTAnhs4QSj3

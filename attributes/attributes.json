@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Color",
+      "value" : "Red"
+    }, {
+      "trait_type" : "Font",
+      "value" : "Times New Roman"
+    } ],
+    "description" : "My First NFT.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmWmvTJmJU3pozR9ZHFmQC2DNDwi2XJtf3QGyYiiagFSWb",
+    "name" : "FirstNFT"
+}
